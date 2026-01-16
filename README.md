@@ -174,6 +174,7 @@ This project is licensed under the MIT License.
 📬 Contact
 
 Takshitha A
+
 GitHub: @Takshi07
 
 ⸻
