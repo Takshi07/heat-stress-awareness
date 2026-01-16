@@ -1,0 +1,61 @@
+# ==============================
+# Python bytecode / cache
+# ==============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ==============================
+# Virtual environments
+# ==============================
+venv/
+.env/
+.env*/
+.venv/
+
+# ==============================
+# Streamlit
+# ==============================
+.streamlit/
+.streamlit/secrets.toml
+
+# ==============================
+# VS Code
+# ==============================
+.vscode/
+*.code-workspace
+
+# ==============================
+# OS-specific files
+# ==============================
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# ==============================
+# Logs & temp files
+# ==============================
+*.log
+*.tmp
+*.bak
+*.swp
+
+# ==============================
+# Jupyter (if accidentally created)
+# ==============================
+.ipynb_checkpoints/
+
+# ==============================
+# Data exports (generated files)
+# ==============================
+*.csv
+
+# ==============================
+# Test & cache folders
+# ==============================
+.pytest_cache/
+.mypy_cache/
